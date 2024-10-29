@@ -1,4 +1,4 @@
-Here's a simple yet effective `README.md` file for your Recipe Generator app:
+
 
 ---
 
