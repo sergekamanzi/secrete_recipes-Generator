@@ -30,7 +30,7 @@ Welcome to the **Recipe Generator** app! This Flutter-based mobile application h
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/sergekamanzi/secrete_recipes-Generator.git
-   cd recipe-generator
+   cd recipe_predector
    ```
 
 2. **Install Dependencies**:
